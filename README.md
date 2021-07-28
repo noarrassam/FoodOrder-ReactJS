@@ -1,6 +1,6 @@
 # Name: Noar Rassam
 
-# React-JS Project - Food Order
+# React-JS Project - Food Order App
 
 ## Used
 
@@ -8,7 +8,7 @@
 
 * React Fundamentals (Components, props, state, etc).
 
-* React Hooks (useState).
+* React Hooks (useState, useContext, useReducer, useRef).
 
 * Validation.
 
