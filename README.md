@@ -8,7 +8,7 @@
 
 * React Concepts (Components, props, props chain ,state, etc).
 
-* React Hooks (useState, useContext, useReducer, useRef).
+* React Hooks (useState, useEffect, useContext, useReducer, useRef).
 
 * Validation.
 
