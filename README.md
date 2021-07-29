@@ -36,3 +36,6 @@
 
 
 ![![Close]()](https://github.com/noarrassam/FoodOrder-ReactJS/blob/master/src/images/8.JPG)
+
+
+![![Empty Cart]()](https://github.com/noarrassam/FoodOrder-ReactJS/blob/master/src/images/9.JPG)
