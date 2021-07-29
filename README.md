@@ -6,7 +6,7 @@
 
 * Functional Component.
 
-* React Fundamentals (Components, props, state, etc).
+* React Concepts (Components, props, props chain ,state, etc).
 
 * React Hooks (useState, useContext, useReducer, useRef).
 
